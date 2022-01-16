@@ -1,0 +1,33 @@
+.bem-Menu {
+  border-radius: 3px;
+  color: #d9d9d9;
+  -webkit-box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.2);
+  border: 1px solid #212121;
+  background: #4d4d4d;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  letter-spacing: 0;
+}
+.bem-Menu_Section {
+  border-top: 1px solid #212121;
+  margin-top: 3px;
+  padding-top: 3px;
+  margin: 3px 0;
+}
+.bem-Text {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  vertical-align: middle;
+  color: inherit;
+}
+.bem-Text-dim {
+  color: #a6a6a6;
+}
+.bem-Text {
+  vertical-align: middle;
+  color: inherit;
+}
